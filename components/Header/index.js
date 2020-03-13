@@ -23,7 +23,7 @@ function Header() {
     headerDate.classList.add('date');
     headerTemp.classList.add('temp')
 
-    headerDate.textContent = `SMARCH 28, 2019`;
+    headerDate.textContent = `MARCH 28, 2019`;
     headerTitle.textContent = `Lambda Times`;
     headerTemp.textContent = `98*`;
 
